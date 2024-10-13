@@ -17,7 +17,7 @@ const config: Config = {
                 highlight: "#00ADB5",
                 fontWhite: "#EEEEEE",
                 fontBlack: "#222831",
-
+                chatBackground: "#EEEEEE",
                 background: "var(--background)",
                 foreground: "var(--foreground)",
             },
