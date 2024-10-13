@@ -4,6 +4,6 @@ type Props = {
   children: ReactNode;
 };
 
-export default function Text({ children }: Props) {
+export default function Label({ children }: Props) {
   return <div>{children}</div>;
 }
